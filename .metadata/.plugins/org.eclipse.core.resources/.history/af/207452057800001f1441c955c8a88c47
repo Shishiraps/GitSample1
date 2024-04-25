@@ -1,0 +1,19 @@
+package Samplepackage;
+
+public class Sample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hi, hello, how are u?");
+		System.out.println("Hey whre are you");
+		int x;
+		int y;
+		int z;
+		x=6;
+		y=2;
+		z=x/y;
+		System.out.println(z);
+
+	}
+
+}
